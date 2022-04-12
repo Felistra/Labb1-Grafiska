@@ -15,7 +15,7 @@ public class JTicButton extends JButton {
 		super.paintComponent(g);
 		Graphics2D g2D = (Graphics2D)g;
 		g2D.setColor(Color.blue);
-		g2D.setFont(new Font("Verdana", Font.BOLD, 10));
+		g2D.setFont(new Font("Verdana", Font.BOLD, 100));
 		g2D.drawString(s, 70, 35);
 	}
 } 
