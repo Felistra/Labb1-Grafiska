@@ -5,5 +5,4 @@ public class Program {
 		Vy vy = new Vy(); 
 
 	}
-
 }
